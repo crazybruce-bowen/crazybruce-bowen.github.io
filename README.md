@@ -3,7 +3,7 @@
 For visitor
 
 - [爬虫实验](https://github.com/crazybruce-bowen/WatchingU)
-
+- [车牌识别](https://github.com/crazybruce-bowen/License-Plate-Recognition)
 
 
 

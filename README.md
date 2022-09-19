@@ -11,7 +11,6 @@ For visitor
 --- 
 
 # Hi Visitor  
-## Welcome to 
+## Welcome to my site
 ## 访问者您好，欢迎来到表世界
-Welcome to my site
 

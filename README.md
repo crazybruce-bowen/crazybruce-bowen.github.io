@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=30&pause=1000&color=C80000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Welcome+to+my+Site)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=80&pause=1000&color=9A0000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=WELCOME+TO+MY+PAGES;By%3A+BOWEN)](https://git.io/typing-svg)
 ===
 
-欢迎来到Bowen的主页
-===
 ### 项目列表
 - [爬虫实验](https://github.com/crazybruce-bowen/WatchingU)
 - [车牌识别](https://github.com/crazybruce-bowen/License-Plate-Recognition)

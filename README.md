@@ -1,17 +1,29 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=30&pause=1000&color=C80000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Welcome+to+my+Site)](https://git.io/typing-svg)
+===
 
---- 
-For visitor
-
+欢迎来到Bowen的主页
+===
+### 项目列表
 - [爬虫实验](https://github.com/crazybruce-bowen/WatchingU)
 - [车牌识别](https://github.com/crazybruce-bowen/License-Plate-Recognition)
-- [里世界](https://github.com/crazybruce-bowen)
+- [里世界](https://github.com/crazybruce-bowen)  
+  
+------
+### 项目简介
+#### 爬虫实验
+目的：
+>自动获取链家，自如的上海租房房源信息，分析租房价格和小区二手房均价，以找到性价比最高的房源
+  
+信息内容：
+>房源名称，地区，户型，朝向，房价，面积，楼层，小区二手房价等
+  
+技术点：
+>· 爬虫，html分析  
+>· MongoDB存储，可拓展存储图像信息  
+>· 图像识别解析自如的房价加密信息。分别做了图像分割，数字识别，定为，最终提取租房价格  
+  
+#### 车牌识别
+目的：
+>自制可捕获车牌号的行车记录仪
 
-
-
---- 
-
-# Hi Visitor  
-## Welcome to my site
-## 访问者您好，欢迎来到表世界
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE0404&width=435&height=80&lines=%E6%B8%B8%E5%AE%A2%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E8%A1%A8%E4%B8%96%E7%95%8C)](https://git.io/typing-svg)
 

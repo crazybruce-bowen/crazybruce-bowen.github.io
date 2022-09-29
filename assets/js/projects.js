@@ -13,11 +13,11 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/rent.jpg',
             link: 'https://github.com/crazybruce-bowen/WatchingU',
-            title: 'RentInfo',
+            title: 'Rent-Info',
             demo: false,
             technologies: ['Python', 'Script', 'ORC'],
             description: "Automatically finding house renting information in Shanghai ",
-            categories: ['Learn']
+            categories: ['Learn', 'featured']
         },
         {
             image: 'assets/images/car_license.jpg',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python', 'YOLO', 'Pytorch'],
             description: "Automatically detect cars license plate and recognize the number",
-            categories: ['Learn']
+            categories: ['Learn', 'featured']
         },
         {
             image: 'assets/images/IG.jpg',

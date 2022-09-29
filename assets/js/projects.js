@@ -55,6 +55,16 @@ let render_projects = (slug) => {
             description: "Crius Machine Learning & AI Platform",
             categories: ['Job']
         },
+        {
+            image: 'assets/images/data-destroyer.png',
+            link: 'https://github.com/abhn/data-destroyer-gui',
+            title: 'Data Destroyer',
+            demo: false,
+            technologies: ['C++', 'Qt'],
+            description: "Native GUI wrapper for GNU coreutils tool 'dd'",
+            categories: ['native']
+        },
+    ]
 
     let projects = [];
     if(slug == 'all') {

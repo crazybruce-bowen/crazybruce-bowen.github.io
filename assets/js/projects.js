@@ -6,8 +6,8 @@ $(document).ready(() => {
 let render_projects = (slug) => {
     let projects_area = $('.projects-wrapper');
 
-    $('.white-button').removeClass('white-button-hover');
-    $(`#${slug}`).addClass('white-button-hover');
+    //$('.white-button').removeClass('white-button-hover');
+    //$(`#${slug}`).addClass('white-button-hover');
 
     let projects_obj = [
         {
@@ -54,15 +54,6 @@ let render_projects = (slug) => {
             technologies: ['Python', 'Docker', 'Django'],
             description: "Crius Machine Learning & AI Platform",
             categories: ['Job']
-        },
-        {
-            image: 'assets/images/data-destroyer.png',
-            link: 'https://github.com/abhn/data-destroyer-gui',
-            title: 'Data Destroyer',
-            demo: false,
-            technologies: ['C++', 'Qt'],
-            description: "Native GUI wrapper for GNU coreutils tool 'dd'",
-            categories: ['native']
         },
     ]
 

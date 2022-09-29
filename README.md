@@ -1,27 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=80&pause=1000&color=9A0000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=WELCOME+TO+MY+PAGES;By%3A+BOWEN)](https://git.io/typing-svg)
-===
+# Portfolio
 
-### 项目列表
-- [爬虫实验](https://github.com/crazybruce-bowen/WatchingU)
-- [车牌识别](https://github.com/crazybruce-bowen/License-Plate-Recognition)
-- [里世界](https://github.com/crazybruce-bowen)  
-  
-------
-### 项目简介
-#### 爬虫实验
-目的：
->自动获取链家，自如的上海租房房源信息，分析租房价格和小区二手房均价，以找到性价比最高的房源
-  
-信息内容：
->房源名称，地区，户型，朝向，房价，面积，楼层，小区二手房价等
-  
-技术点：
->· 爬虫，html分析  
->· MongoDB存储，可拓展存储图像信息  
->· 图像识别解析自如的房价加密信息。分别做了图像分割，数字识别，定为，最终提取租房价格  
-  
-#### 车牌识别
-目的：
->自制可捕获车牌号的行车记录仪
+A simple and modern portfolio template that is lightweight, mobile responsive and looks modern. 
 
+- [Demo](#demo)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Installation](#installation)
 
+### Demo
+[abhn.io](https://abhn.io)
+
+### Screenshots
+![homepage](tmp/screenshot.jpg?raw=true "Homepage")
+
+### Features
+- Single page portfolio made with vanilla CSS and jQuery
+- Sections: Landing, About, Skills (with neat bar graphs), Projects, Contact
+- Smooth scrolling
+- Fully mobile responsive, made with latest CSS3 grid and flexbox, polyfills included
+- Lightweight and easily customizable
+
+### Installation
+- Clone this repository and in the settings, set up Github pages in the setting and optionally a custom domain. The site is live now on `your-username.github.io/portfolio`.
+- In the config variables, add your details and if you use Google Analytics, add your Publisher ID in the `google_analytics` variable.
+- You can add/remove sections from the `_layouts/default.html` file, and then adding the corresponding html file in `_includes/` directory.
+
+### License
+GPL

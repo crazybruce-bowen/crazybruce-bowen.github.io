@@ -1,4 +1,3 @@
-```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=80&pause=1000&color=9A0000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=WELCOME+TO+MY+PAGES;By%3A+BOWEN)](https://git.io/typing-svg)
 ===
 
@@ -12,7 +11,7 @@
 #### 爬虫实验
 目的：
 >自动获取链家，自如的上海租房房源信息，分析租房价格和小区二手房均价，以找到性价比最高的房源
-  
+
 信息内容：
 >房源名称，地区，户型，朝向，房价，面积，楼层，小区二手房价等
   
@@ -24,4 +23,3 @@
 #### 车牌识别
 目的：
 >自制可捕获车牌号的行车记录仪
-```

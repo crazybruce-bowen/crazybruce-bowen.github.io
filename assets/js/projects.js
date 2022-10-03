@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/crazybruce-bowen/WatchingU',
             title: 'Renting-Info-Crawler',
             demo: false,
-            technologies: ['Python', 'Script', 'ORC'],
+            technologies: ['Python', 'Crawler', 'ORC'],
             description: "Automatically finding house renting information in Shanghai ",
             categories: ['Learn', 'featured']
         },
@@ -33,7 +33,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/crazybruce-bowen/IntelliGEO',
             title: 'IntelliGEO',
             demo: false,
-            technologies: ['Python', 'XGBoost'],
+            technologies: ['Python', 'XGBoost', 'Scala'],
             description: "Collect data and predict sales sales potential about grid GEO",
             categories: ['Job']
         },
@@ -47,12 +47,12 @@ let render_projects = (slug) => {
             categories: ['Job']
         },
         {
-            image: 'assets/images/crius.jpg',
-            link: 'https://github.com/abhn/Social-Share-Counts',
+            image: 'assets/images/platform.jpg',
+            link: 'https://github.com/crazybruce-bowen/AI-platform/blob/master/README.md',
             title: 'Machine Learning & AI Platform',
             demo: false,
             technologies: ['Python', 'Docker', 'Django'],
-            description: "Crius Machine Learning & AI Platform",
+            description: "Machine Learning & AI Platform",
             categories: ['Job']
         },
     ]

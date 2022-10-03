@@ -13,7 +13,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/rent.jpg',
             link: 'https://github.com/crazybruce-bowen/WatchingU',
-            title: 'Rent-Info',
+            title: 'Renting-Info-Crawler',
             demo: false,
             technologies: ['Python', 'Script', 'ORC'],
             description: "Automatically finding house renting information in Shanghai ",

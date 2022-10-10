@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/crazybruce-bowen/WatchingU',
             title: 'Renting-Info-Crawler',
             demo: false,
-            technologies: ['Python', 'Crawler', 'ORC'],
+            technologies: ['Python', 'Crawler', 'OCR'],
             description: "Automatically finding house renting information in Shanghai ",
             categories: ['Learn', 'featured']
         },
